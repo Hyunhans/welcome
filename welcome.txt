@@ -2,3 +2,4 @@ hello
 world
 
 abbreviation 축약형
+get off 퇴근하다
